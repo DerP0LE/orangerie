@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"oben.json"
+                 "value":"\/@\/kuchen\/wso\/oben"
                 }],
          "type":"tilelayer",
          "visible":true,
